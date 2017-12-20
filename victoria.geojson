@@ -1,0 +1,8201 @@
+eqfeed_callback({
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3000,
+    "TotalCrime":9715,
+    "NumTypeCrime":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.99,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3002,
+    "TotalCrime":854,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3003,
+    "TotalCrime":780,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.98,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3004,
+    "TotalCrime":35,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3006,
+    "TotalCrime":3288,
+    "NumTypeCrime":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3008,
+    "TotalCrime":2235,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3011,
+    "TotalCrime":3653,
+    "NumTypeCrime":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.85,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3012,
+    "TotalCrime":2117,
+    "NumTypeCrime":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.89,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3013,
+    "TotalCrime":914,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.88,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3015,
+    "TotalCrime":1105,
+    "NumTypeCrime":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3016,
+    "TotalCrime":1327,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3018,
+    "TotalCrime":868,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.86,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3019,
+    "TotalCrime":1178,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.82,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3020,
+    "TotalCrime":5812,
+    "NumTypeCrime":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.77,-37.75 ]
+    },
+    "properties": {
+    "Postcode":3021,
+    "TotalCrime":5605,
+    "NumTypeCrime":96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3022,
+    "TotalCrime":412,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.75,-37.75 ]
+    },
+    "properties": {
+    "Postcode":3023,
+    "TotalCrime":4818,
+    "NumTypeCrime":129
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.56,-37.9 ]
+    },
+    "properties": {
+    "Postcode":3024,
+    "TotalCrime":1590,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.86,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3025,
+    "TotalCrime":1223,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3026,
+    "TotalCrime":589,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.76,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3027,
+    "TotalCrime":404,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.78,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3028,
+    "TotalCrime":1996,
+    "NumTypeCrime":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.7,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3029,
+    "TotalCrime":5887,
+    "NumTypeCrime":75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.58,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3030,
+    "TotalCrime":7545,
+    "NumTypeCrime":118
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93,-37.79 ]
+    },
+    "properties": {
+    "Postcode":3031,
+    "TotalCrime":2547,
+    "NumTypeCrime":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.92,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3032,
+    "TotalCrime":3263,
+    "NumTypeCrime":70
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8,-37.74 ]
+    },
+    "properties": {
+    "Postcode":3033,
+    "TotalCrime":667,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.82,-37.74 ]
+    },
+    "properties": {
+    "Postcode":3034,
+    "TotalCrime":544,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83,-37.72 ]
+    },
+    "properties": {
+    "Postcode":3036,
+    "TotalCrime":462,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.78,-37.72 ]
+    },
+    "properties": {
+    "Postcode":3037,
+    "TotalCrime":2403,
+    "NumTypeCrime":101
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.81,-37.73 ]
+    },
+    "properties": {
+    "Postcode":3038,
+    "TotalCrime":1986,
+    "NumTypeCrime":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.92,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3039,
+    "TotalCrime":1488,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3040,
+    "TotalCrime":1868,
+    "NumTypeCrime":59
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.91,-37.74 ]
+    },
+    "properties": {
+    "Postcode":3041,
+    "TotalCrime":971,
+    "NumTypeCrime":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.89,-37.71 ]
+    },
+    "properties": {
+    "Postcode":3042,
+    "TotalCrime":1586,
+    "NumTypeCrime":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.88,-37.69 ]
+    },
+    "properties": {
+    "Postcode":3043,
+    "TotalCrime":2092,
+    "NumTypeCrime":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94,-37.73 ]
+    },
+    "properties": {
+    "Postcode":3044,
+    "TotalCrime":1715,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.83,-37.67 ]
+    },
+    "properties": {
+    "Postcode":3045,
+    "TotalCrime":644,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.92,-37.7 ]
+    },
+    "properties": {
+    "Postcode":3046,
+    "TotalCrime":2871,
+    "NumTypeCrime":72
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.92,-37.68 ]
+    },
+    "properties": {
+    "Postcode":3047,
+    "TotalCrime":5244,
+    "NumTypeCrime":82
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.93,-37.65 ]
+    },
+    "properties": {
+    "Postcode":3048,
+    "TotalCrime":2502,
+    "NumTypeCrime":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.89,-37.67 ]
+    },
+    "properties": {
+    "Postcode":3049,
+    "TotalCrime":547,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-37.91 ]
+    },
+    "properties": {
+    "Postcode":3051,
+    "TotalCrime":1792,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3052,
+    "TotalCrime":1303,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3053,
+    "TotalCrime":2748,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3054,
+    "TotalCrime":751,
+    "NumTypeCrime":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3055,
+    "TotalCrime":898,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3056,
+    "TotalCrime":3196,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.98,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3057,
+    "TotalCrime":876,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96,-37.73 ]
+    },
+    "properties": {
+    "Postcode":3058,
+    "TotalCrime":4139,
+    "NumTypeCrime":67
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.89,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3059,
+    "TotalCrime":827,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3060,
+    "TotalCrime":1222,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3061,
+    "TotalCrime":1789,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3062,
+    "TotalCrime":246,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.84,-37.63 ]
+    },
+    "properties": {
+    "Postcode":3063,
+    "TotalCrime":21,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.94,-37.6 ]
+    },
+    "properties": {
+    "Postcode":3064,
+    "TotalCrime":6640,
+    "NumTypeCrime":110
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.98,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3065,
+    "TotalCrime":2806,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.98,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3066,
+    "TotalCrime":2196,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3067,
+    "TotalCrime":1297,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.99,-37.79 ]
+    },
+    "properties": {
+    "Postcode":3068,
+    "TotalCrime":1900,
+    "NumTypeCrime":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3070,
+    "TotalCrime":2345,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3071,
+    "TotalCrime":1563,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.74 ]
+    },
+    "properties": {
+    "Postcode":3072,
+    "TotalCrime":6675,
+    "NumTypeCrime":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01,-37.69 ]
+    },
+    "properties": {
+    "Postcode":3073,
+    "TotalCrime":4527,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01,-37.68 ]
+    },
+    "properties": {
+    "Postcode":3074,
+    "TotalCrime":2475,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.02,-37.67 ]
+    },
+    "properties": {
+    "Postcode":3075,
+    "TotalCrime":1679,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3076,
+    "TotalCrime":3488,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3078,
+    "TotalCrime":944,
+    "NumTypeCrime":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3079,
+    "TotalCrime":937,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05,-37.75 ]
+    },
+    "properties": {
+    "Postcode":3081,
+    "TotalCrime":2362,
+    "NumTypeCrime":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-37.67 ]
+    },
+    "properties": {
+    "Postcode":3082,
+    "TotalCrime":2335,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.07,-37.7 ]
+    },
+    "properties": {
+    "Postcode":3083,
+    "TotalCrime":3136,
+    "NumTypeCrime":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.09,-37.74 ]
+    },
+    "properties": {
+    "Postcode":3084,
+    "TotalCrime":2142,
+    "NumTypeCrime":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.07,-37.73 ]
+    },
+    "properties": {
+    "Postcode":3085,
+    "TotalCrime":639,
+    "NumTypeCrime":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08,-37.71 ]
+    },
+    "properties": {
+    "Postcode":3087,
+    "TotalCrime":773,
+    "NumTypeCrime":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.71 ]
+    },
+    "properties": {
+    "Postcode":3088,
+    "TotalCrime":2036,
+    "NumTypeCrime":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.22,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3089,
+    "TotalCrime":778,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.67 ]
+    },
+    "properties": {
+    "Postcode":3090,
+    "TotalCrime":175,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.13,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3091,
+    "TotalCrime":109,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.09,-37.73 ]
+    },
+    "properties": {
+    "Postcode":3093,
+    "TotalCrime":157,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.72 ]
+    },
+    "properties": {
+    "Postcode":3094,
+    "TotalCrime":365,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.15,-37.71 ]
+    },
+    "properties": {
+    "Postcode":3095,
+    "TotalCrime":1531,
+    "NumTypeCrime":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-37.67 ]
+    },
+    "properties": {
+    "Postcode":3096,
+    "TotalCrime":66,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.28,-37.7 ]
+    },
+    "properties": {
+    "Postcode":3097,
+    "TotalCrime":28,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.22,-37.59 ]
+    },
+    "properties": {
+    "Postcode":3099,
+    "TotalCrime":240,
+    "NumTypeCrime":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3101,
+    "TotalCrime":1532,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3102,
+    "TotalCrime":177,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3103,
+    "TotalCrime":669,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.07,-37.79 ]
+    },
+    "properties": {
+    "Postcode":3104,
+    "TotalCrime":613,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3105,
+    "TotalCrime":465,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3106,
+    "TotalCrime":575,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3107,
+    "TotalCrime":445,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3108,
+    "TotalCrime":1528,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3109,
+    "TotalCrime":1189,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.47,-38.18 ]
+    },
+    "properties": {
+    "Postcode":3111,
+    "TotalCrime":366,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.22,-37.73 ]
+    },
+    "properties": {
+    "Postcode":3113,
+    "TotalCrime":228,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.21,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3114,
+    "TotalCrime":114,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.27,-37.74 ]
+    },
+    "properties": {
+    "Postcode":3115,
+    "TotalCrime":111,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.33,-37.75 ]
+    },
+    "properties": {
+    "Postcode":3116,
+    "TotalCrime":799,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01,-37.83 ]
+    },
+    "properties": {
+    "Postcode":3121,
+    "TotalCrime":4827,
+    "NumTypeCrime":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3122,
+    "TotalCrime":1655,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04,-37.83 ]
+    },
+    "properties": {
+    "Postcode":3123,
+    "TotalCrime":772,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3124,
+    "TotalCrime":1268,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3125,
+    "TotalCrime":856,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.09,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3126,
+    "TotalCrime":299,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3127,
+    "TotalCrime":711,
+    "NumTypeCrime":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3128,
+    "TotalCrime":1740,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.13,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3129,
+    "TotalCrime":476,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.15,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3130,
+    "TotalCrime":1288,
+    "NumTypeCrime":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3131,
+    "TotalCrime":1159,
+    "NumTypeCrime":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3132,
+    "TotalCrime":864,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3133,
+    "TotalCrime":755,
+    "NumTypeCrime":40
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.23,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3134,
+    "TotalCrime":3993,
+    "NumTypeCrime":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.25,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3135,
+    "TotalCrime":1104,
+    "NumTypeCrime":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.28,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3136,
+    "TotalCrime":2903,
+    "NumTypeCrime":86
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.31,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3137,
+    "TotalCrime":854,
+    "NumTypeCrime":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.33,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3138,
+    "TotalCrime":1418,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.54,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3139,
+    "TotalCrime":697,
+    "NumTypeCrime":132
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.35,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3140,
+    "TotalCrime":1819,
+    "NumTypeCrime":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.06,-36.99 ]
+    },
+    "properties": {
+    "Postcode":3141,
+    "TotalCrime":2938,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3142,
+    "TotalCrime":883,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.02,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3143,
+    "TotalCrime":647,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3144,
+    "TotalCrime":1052,
+    "NumTypeCrime":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3145,
+    "TotalCrime":2112,
+    "NumTypeCrime":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.07,-37.85 ]
+    },
+    "properties": {
+    "Postcode":3146,
+    "TotalCrime":1039,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3147,
+    "TotalCrime":1105,
+    "NumTypeCrime":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08,-37.89 ]
+    },
+    "properties": {
+    "Postcode":3148,
+    "TotalCrime":1068,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.13,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3149,
+    "TotalCrime":1512,
+    "NumTypeCrime":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.17,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3150,
+    "TotalCrime":2648,
+    "NumTypeCrime":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.14,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3151,
+    "TotalCrime":600,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.24,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3152,
+    "TotalCrime":2838,
+    "NumTypeCrime":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.27,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3153,
+    "TotalCrime":2366,
+    "NumTypeCrime":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.31,-37.85 ]
+    },
+    "properties": {
+    "Postcode":3154,
+    "TotalCrime":274,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.28,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3155,
+    "TotalCrime":2307,
+    "NumTypeCrime":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3156,
+    "TotalCrime":2245,
+    "NumTypeCrime":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.33,-37.9 ]
+    },
+    "properties": {
+    "Postcode":3158,
+    "TotalCrime":247,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4,-37.92 ]
+    },
+    "properties": {
+    "Postcode":3159,
+    "TotalCrime":53,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36,-37.91 ]
+    },
+    "properties": {
+    "Postcode":3160,
+    "TotalCrime":502,
+    "NumTypeCrime":63
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.31,-38.03 ]
+    },
+    "properties": {
+    "Postcode":3161,
+    "TotalCrime":712,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3162,
+    "TotalCrime":1146,
+    "NumTypeCrime":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-37.89 ]
+    },
+    "properties": {
+    "Postcode":3163,
+    "TotalCrime":1915,
+    "NumTypeCrime":68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3165,
+    "TotalCrime":1188,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08,-37.9 ]
+    },
+    "properties": {
+    "Postcode":3166,
+    "TotalCrime":2160,
+    "NumTypeCrime":88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3167,
+    "TotalCrime":471,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3168,
+    "TotalCrime":1784,
+    "NumTypeCrime":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1,-37.94 ]
+    },
+    "properties": {
+    "Postcode":3169,
+    "TotalCrime":1128,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3170,
+    "TotalCrime":2806,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.16,-37.95 ]
+    },
+    "properties": {
+    "Postcode":3171,
+    "TotalCrime":2147,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3172,
+    "TotalCrime":1168,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.15,-37.99 ]
+    },
+    "properties": {
+    "Postcode":3173,
+    "TotalCrime":1778,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3174,
+    "TotalCrime":3586,
+    "NumTypeCrime":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18,-38.03 ]
+    },
+    "properties": {
+    "Postcode":3175,
+    "TotalCrime":12311,
+    "NumTypeCrime":93
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.24,-38 ]
+    },
+    "properties": {
+    "Postcode":3177,
+    "TotalCrime":1752,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.24,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3178,
+    "TotalCrime":1986,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.26,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3179,
+    "TotalCrime":630,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.25,-37.89 ]
+    },
+    "properties": {
+    "Postcode":3180,
+    "TotalCrime":551,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.99,-37.85 ]
+    },
+    "properties": {
+    "Postcode":3181,
+    "TotalCrime":3836,
+    "NumTypeCrime":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.98,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3182,
+    "TotalCrime":5205,
+    "NumTypeCrime":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3183,
+    "TotalCrime":1309,
+    "NumTypeCrime":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3184,
+    "TotalCrime":1111,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3185,
+    "TotalCrime":879,
+    "NumTypeCrime":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.99,-37.91 ]
+    },
+    "properties": {
+    "Postcode":3186,
+    "TotalCrime":1536,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.9 ]
+    },
+    "properties": {
+    "Postcode":3187,
+    "TotalCrime":595,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3188,
+    "TotalCrime":1232,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3189,
+    "TotalCrime":1346,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.95 ]
+    },
+    "properties": {
+    "Postcode":3190,
+    "TotalCrime":976,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01,-37.95 ]
+    },
+    "properties": {
+    "Postcode":3191,
+    "TotalCrime":657,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-37.96 ]
+    },
+    "properties": {
+    "Postcode":3192,
+    "TotalCrime":2112,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.99 ]
+    },
+    "properties": {
+    "Postcode":3193,
+    "TotalCrime":613,
+    "NumTypeCrime":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-37.98 ]
+    },
+    "properties": {
+    "Postcode":3194,
+    "TotalCrime":987,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1,-38.03 ]
+    },
+    "properties": {
+    "Postcode":3195,
+    "TotalCrime":2056,
+    "NumTypeCrime":121
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-38.06 ]
+    },
+    "properties": {
+    "Postcode":3196,
+    "TotalCrime":1648,
+    "NumTypeCrime":92
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-38.08 ]
+    },
+    "properties": {
+    "Postcode":3197,
+    "TotalCrime":1062,
+    "NumTypeCrime":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.16,-38.11 ]
+    },
+    "properties": {
+    "Postcode":3198,
+    "TotalCrime":2410,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.12,-38.15 ]
+    },
+    "properties": {
+    "Postcode":3199,
+    "TotalCrime":8901,
+    "NumTypeCrime":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-38.17 ]
+    },
+    "properties": {
+    "Postcode":3200,
+    "TotalCrime":1365,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-38.09 ]
+    },
+    "properties": {
+    "Postcode":3201,
+    "TotalCrime":2153,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.21,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3202,
+    "TotalCrime":210,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.04,-37.92 ]
+    },
+    "properties": {
+    "Postcode":3204,
+    "TotalCrime":1361,
+    "NumTypeCrime":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3205,
+    "TotalCrime":2337,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3206,
+    "TotalCrime":1187,
+    "NumTypeCrime":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.96,-37.83 ]
+    },
+    "properties": {
+    "Postcode":3207,
+    "TotalCrime":2289,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.53,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3211,
+    "TotalCrime":185,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.41,-38.02 ]
+    },
+    "properties": {
+    "Postcode":3212,
+    "TotalCrime":1106,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.36,-38.07 ]
+    },
+    "properties": {
+    "Postcode":3214,
+    "TotalCrime":5169,
+    "NumTypeCrime":77
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.33,-38.11 ]
+    },
+    "properties": {
+    "Postcode":3215,
+    "TotalCrime":2266,
+    "NumTypeCrime":107
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.34,-38.18 ]
+    },
+    "properties": {
+    "Postcode":3216,
+    "TotalCrime":3451,
+    "NumTypeCrime":132
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.3,-38.2 ]
+    },
+    "properties": {
+    "Postcode":3217,
+    "TotalCrime":263,
+    "NumTypeCrime":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.35,-38.14 ]
+    },
+    "properties": {
+    "Postcode":3218,
+    "TotalCrime":1303,
+    "NumTypeCrime":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.38,-38.18 ]
+    },
+    "properties": {
+    "Postcode":3219,
+    "TotalCrime":2390,
+    "NumTypeCrime":124
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.11,-38.18 ]
+    },
+    "properties": {
+    "Postcode":3220,
+    "TotalCrime":4454,
+    "NumTypeCrime":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.25,-37.9 ]
+    },
+    "properties": {
+    "Postcode":3221,
+    "TotalCrime":493,
+    "NumTypeCrime":112
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.56,-38.16 ]
+    },
+    "properties": {
+    "Postcode":3222,
+    "TotalCrime":562,
+    "NumTypeCrime":56
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.71,-38.14 ]
+    },
+    "properties": {
+    "Postcode":3223,
+    "TotalCrime":346,
+    "NumTypeCrime":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.46,-38.18 ]
+    },
+    "properties": {
+    "Postcode":3224,
+    "TotalCrime":451,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.61,-38.29 ]
+    },
+    "properties": {
+    "Postcode":3225,
+    "TotalCrime":175,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.54,-38.27 ]
+    },
+    "properties": {
+    "Postcode":3226,
+    "TotalCrime":458,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.49,-38.28 ]
+    },
+    "properties": {
+    "Postcode":3227,
+    "TotalCrime":288,
+    "NumTypeCrime":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.26,-38.33 ]
+    },
+    "properties": {
+    "Postcode":3228,
+    "TotalCrime":796,
+    "NumTypeCrime":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.19,-38.41 ]
+    },
+    "properties": {
+    "Postcode":3230,
+    "TotalCrime":130,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.11,-38.46 ]
+    },
+    "properties": {
+    "Postcode":3231,
+    "TotalCrime":42,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144,-38.52 ]
+    },
+    "properties": {
+    "Postcode":3232,
+    "TotalCrime":135,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.67,-38.75 ]
+    },
+    "properties": {
+    "Postcode":3233,
+    "TotalCrime":158,
+    "NumTypeCrime":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.93,-38.47 ]
+    },
+    "properties": {
+    "Postcode":3235,
+    "TotalCrime":11,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.71,-38.52 ]
+    },
+    "properties": {
+    "Postcode":3236,
+    "TotalCrime":5,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.56,-38.69 ]
+    },
+    "properties": {
+    "Postcode":3237,
+    "TotalCrime":11,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.43,-38.78 ]
+    },
+    "properties": {
+    "Postcode":3238,
+    "TotalCrime":11,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.4,-38.56 ]
+    },
+    "properties": {
+    "Postcode":3239,
+    "TotalCrime":13,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.08,-38.22 ]
+    },
+    "properties": {
+    "Postcode":3240,
+    "TotalCrime":55,
+    "NumTypeCrime":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.95,-38.37 ]
+    },
+    "properties": {
+    "Postcode":3241,
+    "TotalCrime":117,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.79,-38.31 ]
+    },
+    "properties": {
+    "Postcode":3242,
+    "TotalCrime":20,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.76,-38.47 ]
+    },
+    "properties": {
+    "Postcode":3243,
+    "TotalCrime":37,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.48,-38.24 ]
+    },
+    "properties": {
+    "Postcode":3249,
+    "TotalCrime":174,
+    "NumTypeCrime":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.58,-38.34 ]
+    },
+    "properties": {
+    "Postcode":3250,
+    "TotalCrime":1485,
+    "NumTypeCrime":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.64,-38.19 ]
+    },
+    "properties": {
+    "Postcode":3251,
+    "TotalCrime":25,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.52,-38.3 ]
+    },
+    "properties": {
+    "Postcode":3254,
+    "TotalCrime":24,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.1,-38.13 ]
+    },
+    "properties": {
+    "Postcode":3260,
+    "TotalCrime":379,
+    "NumTypeCrime":61
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.91,-38.24 ]
+    },
+    "properties": {
+    "Postcode":3264,
+    "TotalCrime":194,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.01,-38.21 ]
+    },
+    "properties": {
+    "Postcode":3265,
+    "TotalCrime":172,
+    "NumTypeCrime":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.14,-38.34 ]
+    },
+    "properties": {
+    "Postcode":3266,
+    "TotalCrime":108,
+    "NumTypeCrime":37
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.11,-38.45 ]
+    },
+    "properties": {
+    "Postcode":3267,
+    "TotalCrime":6,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.86,-38.42 ]
+    },
+    "properties": {
+    "Postcode":3268,
+    "TotalCrime":90,
+    "NumTypeCrime":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143,-38.62 ]
+    },
+    "properties": {
+    "Postcode":3269,
+    "TotalCrime":46,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.86,-38.58 ]
+    },
+    "properties": {
+    "Postcode":3270,
+    "TotalCrime":5,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.05,-38 ]
+    },
+    "properties": {
+    "Postcode":3271,
+    "TotalCrime":12,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.81,-38.08 ]
+    },
+    "properties": {
+    "Postcode":3272,
+    "TotalCrime":98,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.61,-38.06 ]
+    },
+    "properties": {
+    "Postcode":3273,
+    "TotalCrime":23,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.52,-37.91 ]
+    },
+    "properties": {
+    "Postcode":3274,
+    "TotalCrime":6,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.46,-38.3 ]
+    },
+    "properties": {
+    "Postcode":3275,
+    "TotalCrime":6,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.44,-38.04 ]
+    },
+    "properties": {
+    "Postcode":3276,
+    "TotalCrime":2,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.59,-38.39 ]
+    },
+    "properties": {
+    "Postcode":3277,
+    "TotalCrime":44,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.62,-38.28 ]
+    },
+    "properties": {
+    "Postcode":3278,
+    "TotalCrime":15,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.66,-38.21 ]
+    },
+    "properties": {
+    "Postcode":3279,
+    "TotalCrime":7,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.44,-38.36 ]
+    },
+    "properties": {
+    "Postcode":3280,
+    "TotalCrime":3221,
+    "NumTypeCrime":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.51,-38.33 ]
+    },
+    "properties": {
+    "Postcode":3281,
+    "TotalCrime":15,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.41,-38.33 ]
+    },
+    "properties": {
+    "Postcode":3282,
+    "TotalCrime":95,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.33,-38.31 ]
+    },
+    "properties": {
+    "Postcode":3283,
+    "TotalCrime":45,
+    "NumTypeCrime":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.15,-38.21 ]
+    },
+    "properties": {
+    "Postcode":3284,
+    "TotalCrime":157,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.97,-38.27 ]
+    },
+    "properties": {
+    "Postcode":3285,
+    "TotalCrime":38,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.83,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3286,
+    "TotalCrime":16,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.32,-38.11 ]
+    },
+    "properties": {
+    "Postcode":3287,
+    "TotalCrime":12,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.17,-37.9 ]
+    },
+    "properties": {
+    "Postcode":3289,
+    "TotalCrime":39,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.01,-38.05 ]
+    },
+    "properties": {
+    "Postcode":3292,
+    "TotalCrime":16,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.55,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3293,
+    "TotalCrime":13,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.34,-37.65 ]
+    },
+    "properties": {
+    "Postcode":3294,
+    "TotalCrime":42,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.96,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3300,
+    "TotalCrime":1123,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.93,-37.7 ]
+    },
+    "properties": {
+    "Postcode":3301,
+    "TotalCrime":23,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.79,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3302,
+    "TotalCrime":19,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.81,-38.03 ]
+    },
+    "properties": {
+    "Postcode":3303,
+    "TotalCrime":20,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.97,-38.15 ]
+    },
+    "properties": {
+    "Postcode":3304,
+    "TotalCrime":142,
+    "NumTypeCrime":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.65,-38.27 ]
+    },
+    "properties": {
+    "Postcode":3305,
+    "TotalCrime":1303,
+    "NumTypeCrime":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.5,-37.79 ]
+    },
+    "properties": {
+    "Postcode":3309,
+    "TotalCrime":10,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.55,-37.72 ]
+    },
+    "properties": {
+    "Postcode":3310,
+    "TotalCrime":29,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.41,-37.58 ]
+    },
+    "properties": {
+    "Postcode":3311,
+    "TotalCrime":76,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.37,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3312,
+    "TotalCrime":47,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.94,-37.59 ]
+    },
+    "properties": {
+    "Postcode":3314,
+    "TotalCrime":11,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.76,-37.44 ]
+    },
+    "properties": {
+    "Postcode":3315,
+    "TotalCrime":72,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.51,-36.99 ]
+    },
+    "properties": {
+    "Postcode":3318,
+    "TotalCrime":98,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.08,-36.97 ]
+    },
+    "properties": {
+    "Postcode":3319,
+    "TotalCrime":4,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.86,-38.11 ]
+    },
+    "properties": {
+    "Postcode":3321,
+    "TotalCrime":33,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.64,-38.03 ]
+    },
+    "properties": {
+    "Postcode":3322,
+    "TotalCrime":17,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.49,-37.99 ]
+    },
+    "properties": {
+    "Postcode":3323,
+    "TotalCrime":8,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.34,-37.95 ]
+    },
+    "properties": {
+    "Postcode":3324,
+    "TotalCrime":25,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.22,-37.95 ]
+    },
+    "properties": {
+    "Postcode":3325,
+    "TotalCrime":27,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.05,-38.04 ]
+    },
+    "properties": {
+    "Postcode":3328,
+    "TotalCrime":10,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.86,-38.02 ]
+    },
+    "properties": {
+    "Postcode":3329,
+    "TotalCrime":8,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.68,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3330,
+    "TotalCrime":30,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.17,-38.05 ]
+    },
+    "properties": {
+    "Postcode":3331,
+    "TotalCrime":236,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.14,-37.96 ]
+    },
+    "properties": {
+    "Postcode":3332,
+    "TotalCrime":30,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.03,-37.92 ]
+    },
+    "properties": {
+    "Postcode":3333,
+    "TotalCrime":75,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.09,-37.71 ]
+    },
+    "properties": {
+    "Postcode":3334,
+    "TotalCrime":34,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.69,-37.69 ]
+    },
+    "properties": {
+    "Postcode":3335,
+    "TotalCrime":1093,
+    "NumTypeCrime":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.59,-37.68 ]
+    },
+    "properties": {
+    "Postcode":3337,
+    "TotalCrime":5077,
+    "NumTypeCrime":88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.54,-37.7 ]
+    },
+    "properties": {
+    "Postcode":3338,
+    "TotalCrime":2028,
+    "NumTypeCrime":75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.44,-37.68 ]
+    },
+    "properties": {
+    "Postcode":3340,
+    "TotalCrime":1813,
+    "NumTypeCrime":115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.31,-37.52 ]
+    },
+    "properties": {
+    "Postcode":3341,
+    "TotalCrime":88,
+    "NumTypeCrime":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.23,-37.6 ]
+    },
+    "properties": {
+    "Postcode":3342,
+    "TotalCrime":389,
+    "NumTypeCrime":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1,-37.59 ]
+    },
+    "properties": {
+    "Postcode":3345,
+    "TotalCrime":88,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.82,-37.56 ]
+    },
+    "properties": {
+    "Postcode":3350,
+    "TotalCrime":7673,
+    "NumTypeCrime":227
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.68,-37.77 ]
+    },
+    "properties": {
+    "Postcode":3351,
+    "TotalCrime":305,
+    "NumTypeCrime":109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.67,-37.38 ]
+    },
+    "properties": {
+    "Postcode":3352,
+    "TotalCrime":861,
+    "NumTypeCrime":274
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.87,-37.56 ]
+    },
+    "properties": {
+    "Postcode":3354,
+    "TotalCrime":25,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.82,-37.55 ]
+    },
+    "properties": {
+    "Postcode":3355,
+    "TotalCrime":1911,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.83,-37.59 ]
+    },
+    "properties": {
+    "Postcode":3356,
+    "TotalCrime":1798,
+    "NumTypeCrime":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.92,-37.65 ]
+    },
+    "properties": {
+    "Postcode":3357,
+    "TotalCrime":191,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.56,-37.69 ]
+    },
+    "properties": {
+    "Postcode":3360,
+    "TotalCrime":30,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.41,-37.78 ]
+    },
+    "properties": {
+    "Postcode":3361,
+    "TotalCrime":21,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.89,-37.42 ]
+    },
+    "properties": {
+    "Postcode":3363,
+    "TotalCrime":341,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.94,-37.37 ]
+    },
+    "properties": {
+    "Postcode":3364,
+    "TotalCrime":84,
+    "NumTypeCrime":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.79,-37.29 ]
+    },
+    "properties": {
+    "Postcode":3370,
+    "TotalCrime":138,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.67,-37.15 ]
+    },
+    "properties": {
+    "Postcode":3371,
+    "TotalCrime":82,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.38,-37.43 ]
+    },
+    "properties": {
+    "Postcode":3373,
+    "TotalCrime":247,
+    "NumTypeCrime":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.13,-37.43 ]
+    },
+    "properties": {
+    "Postcode":3375,
+    "TotalCrime":18,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.93,-37.28 ]
+    },
+    "properties": {
+    "Postcode":3377,
+    "TotalCrime":1366,
+    "NumTypeCrime":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.94,-37.53 ]
+    },
+    "properties": {
+    "Postcode":3378,
+    "TotalCrime":2,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.52,-37.53 ]
+    },
+    "properties": {
+    "Postcode":3379,
+    "TotalCrime":31,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.7,-37.16 ]
+    },
+    "properties": {
+    "Postcode":3380,
+    "TotalCrime":801,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.21,-36.94 ]
+    },
+    "properties": {
+    "Postcode":3381,
+    "TotalCrime":128,
+    "NumTypeCrime":58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2,-36.98 ]
+    },
+    "properties": {
+    "Postcode":3384,
+    "TotalCrime":30,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.51,-36.92 ]
+    },
+    "properties": {
+    "Postcode":3385,
+    "TotalCrime":26,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.87,-36.67 ]
+    },
+    "properties": {
+    "Postcode":3387,
+    "TotalCrime":1,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.82,-36.57 ]
+    },
+    "properties": {
+    "Postcode":3388,
+    "TotalCrime":21,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.42,-36.45 ]
+    },
+    "properties": {
+    "Postcode":3390,
+    "TotalCrime":70,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.52,-36.07 ]
+    },
+    "properties": {
+    "Postcode":3391,
+    "TotalCrime":13,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.59,-36.46 ]
+    },
+    "properties": {
+    "Postcode":3392,
+    "TotalCrime":15,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.36,-36.33 ]
+    },
+    "properties": {
+    "Postcode":3393,
+    "TotalCrime":227,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.42,-35.94 ]
+    },
+    "properties": {
+    "Postcode":3395,
+    "TotalCrime":24,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.36,-35.73 ]
+    },
+    "properties": {
+    "Postcode":3396,
+    "TotalCrime":29,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.2,-36.71 ]
+    },
+    "properties": {
+    "Postcode":3400,
+    "TotalCrime":2663,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.31,-36.46 ]
+    },
+    "properties": {
+    "Postcode":3401,
+    "TotalCrime":146,
+    "NumTypeCrime":68
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.84,-37.25 ]
+    },
+    "properties": {
+    "Postcode":3407,
+    "TotalCrime":18,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.76,-36.78 ]
+    },
+    "properties": {
+    "Postcode":3409,
+    "TotalCrime":21,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.47,-36.75 ]
+    },
+    "properties": {
+    "Postcode":3412,
+    "TotalCrime":11,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.18,-36.71 ]
+    },
+    "properties": {
+    "Postcode":3413,
+    "TotalCrime":5,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.02,-36.3 ]
+    },
+    "properties": {
+    "Postcode":3414,
+    "TotalCrime":113,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.36,-36.38 ]
+    },
+    "properties": {
+    "Postcode":3415,
+    "TotalCrime":8,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.33,-36.17 ]
+    },
+    "properties": {
+    "Postcode":3418,
+    "TotalCrime":151,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.24,-36.38 ]
+    },
+    "properties": {
+    "Postcode":3419,
+    "TotalCrime":48,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.12,-36.36 ]
+    },
+    "properties": {
+    "Postcode":3420,
+    "TotalCrime":5,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.99,-36.14 ]
+    },
+    "properties": {
+    "Postcode":3423,
+    "TotalCrime":46,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.97,-35.69 ]
+    },
+    "properties": {
+    "Postcode":3424,
+    "TotalCrime":43,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.72,-37.63 ]
+    },
+    "properties": {
+    "Postcode":3427,
+    "TotalCrime":318,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3428,
+    "TotalCrime":201,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.73,-37.58 ]
+    },
+    "properties": {
+    "Postcode":3429,
+    "TotalCrime":3056,
+    "NumTypeCrime":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.75,-37.48 ]
+    },
+    "properties": {
+    "Postcode":3430,
+    "TotalCrime":22,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.67,-37.46 ]
+    },
+    "properties": {
+    "Postcode":3431,
+    "TotalCrime":145,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.78,-37.43 ]
+    },
+    "properties": {
+    "Postcode":3432,
+    "TotalCrime":3,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3433,
+    "TotalCrime":4,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.64,-37.39 ]
+    },
+    "properties": {
+    "Postcode":3434,
+    "TotalCrime":212,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.69,-37.19 ]
+    },
+    "properties": {
+    "Postcode":3435,
+    "TotalCrime":101,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.48,-37.52 ]
+    },
+    "properties": {
+    "Postcode":3437,
+    "TotalCrime":847,
+    "NumTypeCrime":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6,-37.46 ]
+    },
+    "properties": {
+    "Postcode":3438,
+    "TotalCrime":55,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.59,-37.4 ]
+    },
+    "properties": {
+    "Postcode":3440,
+    "TotalCrime":107,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.59,-37.4 ]
+    },
+    "properties": {
+    "Postcode":3441,
+    "TotalCrime":54,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.45,-37.39 ]
+    },
+    "properties": {
+    "Postcode":3442,
+    "TotalCrime":265,
+    "NumTypeCrime":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.51,-37.09 ]
+    },
+    "properties": {
+    "Postcode":3444,
+    "TotalCrime":642,
+    "NumTypeCrime":66
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.29,-37.2 ]
+    },
+    "properties": {
+    "Postcode":3446,
+    "TotalCrime":342,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.36,-37.13 ]
+    },
+    "properties": {
+    "Postcode":3447,
+    "TotalCrime":17,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.34,-37.11 ]
+    },
+    "properties": {
+    "Postcode":3448,
+    "TotalCrime":84,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.22,-37.06 ]
+    },
+    "properties": {
+    "Postcode":3450,
+    "TotalCrime":857,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.24,-37.03 ]
+    },
+    "properties": {
+    "Postcode":3451,
+    "TotalCrime":238,
+    "NumTypeCrime":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.26,-37 ]
+    },
+    "properties": {
+    "Postcode":3453,
+    "TotalCrime":88,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.29,-37.45 ]
+    },
+    "properties": {
+    "Postcode":3458,
+    "TotalCrime":95,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.09,-37.31 ]
+    },
+    "properties": {
+    "Postcode":3460,
+    "TotalCrime":198,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.22,-37.39 ]
+    },
+    "properties": {
+    "Postcode":3461,
+    "TotalCrime":106,
+    "NumTypeCrime":58
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.1,-37.11 ]
+    },
+    "properties": {
+    "Postcode":3462,
+    "TotalCrime":36,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.95,-36.98 ]
+    },
+    "properties": {
+    "Postcode":3463,
+    "TotalCrime":107,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8,-37.01 ]
+    },
+    "properties": {
+    "Postcode":3464,
+    "TotalCrime":79,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.68,-37.07 ]
+    },
+    "properties": {
+    "Postcode":3465,
+    "TotalCrime":1243,
+    "NumTypeCrime":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.47,-37.09 ]
+    },
+    "properties": {
+    "Postcode":3467,
+    "TotalCrime":86,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.4,-37.18 ]
+    },
+    "properties": {
+    "Postcode":3468,
+    "TotalCrime":20,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.25,-37.18 ]
+    },
+    "properties": {
+    "Postcode":3469,
+    "TotalCrime":5,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.76,-36.92 ]
+    },
+    "properties": {
+    "Postcode":3472,
+    "TotalCrime":96,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.5,-36.83 ]
+    },
+    "properties": {
+    "Postcode":3475,
+    "TotalCrime":70,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3477,
+    "TotalCrime":3,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.92,-36.54 ]
+    },
+    "properties": {
+    "Postcode":3478,
+    "TotalCrime":374,
+    "NumTypeCrime":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.69,-36.24 ]
+    },
+    "properties": {
+    "Postcode":3480,
+    "TotalCrime":59,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.86,-36.23 ]
+    },
+    "properties": {
+    "Postcode":3482,
+    "TotalCrime":6,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.75,-35.98 ]
+    },
+    "properties": {
+    "Postcode":3483,
+    "TotalCrime":26,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.77,-35.64 ]
+    },
+    "properties": {
+    "Postcode":3485,
+    "TotalCrime":11,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.58,-35.61 ]
+    },
+    "properties": {
+    "Postcode":3487,
+    "TotalCrime":3,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.44,-35.4 ]
+    },
+    "properties": {
+    "Postcode":3488,
+    "TotalCrime":4,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.48,-35.34 ]
+    },
+    "properties": {
+    "Postcode":3489,
+    "TotalCrime":10,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.6,-35.2 ]
+    },
+    "properties": {
+    "Postcode":3490,
+    "TotalCrime":95,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.19,-35.38 ]
+    },
+    "properties": {
+    "Postcode":3491,
+    "TotalCrime":6,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.23,-34.46 ]
+    },
+    "properties": {
+    "Postcode":3494,
+    "TotalCrime":58,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.15,-34.29 ]
+    },
+    "properties": {
+    "Postcode":3496,
+    "TotalCrime":396,
+    "NumTypeCrime":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.18,-34.23 ]
+    },
+    "properties": {
+    "Postcode":3498,
+    "TotalCrime":237,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.16,-34.18 ]
+    },
+    "properties": {
+    "Postcode":3500,
+    "TotalCrime":5245,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.33,-34.85 ]
+    },
+    "properties": {
+    "Postcode":3501,
+    "TotalCrime":98,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.06,-34.2 ]
+    },
+    "properties": {
+    "Postcode":3505,
+    "TotalCrime":383,
+    "NumTypeCrime":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.4,-35.28 ]
+    },
+    "properties": {
+    "Postcode":3506,
+    "TotalCrime":5,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.02,-35.19 ]
+    },
+    "properties": {
+    "Postcode":3507,
+    "TotalCrime":1,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.69,-35.17 ]
+    },
+    "properties": {
+    "Postcode":3509,
+    "TotalCrime":4,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.09,-35.22 ]
+    },
+    "properties": {
+    "Postcode":3512,
+    "TotalCrime":17,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.13,-36.74 ]
+    },
+    "properties": {
+    "Postcode":3515,
+    "TotalCrime":49,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.92,-36.59 ]
+    },
+    "properties": {
+    "Postcode":3516,
+    "TotalCrime":34,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.92,-36.3 ]
+    },
+    "properties": {
+    "Postcode":3517,
+    "TotalCrime":103,
+    "NumTypeCrime":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.46,-36.5 ]
+    },
+    "properties": {
+    "Postcode":3518,
+    "TotalCrime":111,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.84,-36.33 ]
+    },
+    "properties": {
+    "Postcode":3520,
+    "TotalCrime":23,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.88,-37.12 ]
+    },
+    "properties": {
+    "Postcode":3521,
+    "TotalCrime":96,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.75,-37.13 ]
+    },
+    "properties": {
+    "Postcode":3522,
+    "TotalCrime":18,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.73,-36.94 ]
+    },
+    "properties": {
+    "Postcode":3523,
+    "TotalCrime":196,
+    "NumTypeCrime":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.43,-36.27 ]
+    },
+    "properties": {
+    "Postcode":3525,
+    "TotalCrime":84,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.39,-36.06 ]
+    },
+    "properties": {
+    "Postcode":3527,
+    "TotalCrime":35,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.26,-35.78 ]
+    },
+    "properties": {
+    "Postcode":3529,
+    "TotalCrime":2,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.11,-35.72 ]
+    },
+    "properties": {
+    "Postcode":3530,
+    "TotalCrime":9,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.99,-35.64 ]
+    },
+    "properties": {
+    "Postcode":3531,
+    "TotalCrime":5,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.79,-35.36 ]
+    },
+    "properties": {
+    "Postcode":3533,
+    "TotalCrime":22,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.67,-36.01 ]
+    },
+    "properties": {
+    "Postcode":3537,
+    "TotalCrime":19,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45,-35.76 ]
+    },
+    "properties": {
+    "Postcode":3540,
+    "TotalCrime":22,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.28,-35.76 ]
+    },
+    "properties": {
+    "Postcode":3542,
+    "TotalCrime":8,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.2,-35.51 ]
+    },
+    "properties": {
+    "Postcode":3544,
+    "TotalCrime":11,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.88,-34.96 ]
+    },
+    "properties": {
+    "Postcode":3546,
+    "TotalCrime":50,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.83,-34.85 ]
+    },
+    "properties": {
+    "Postcode":3549,
+    "TotalCrime":429,
+    "NumTypeCrime":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.28,-36.76 ]
+    },
+    "properties": {
+    "Postcode":3550,
+    "TotalCrime":6172,
+    "NumTypeCrime":243
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.87,-36.69 ]
+    },
+    "properties": {
+    "Postcode":3551,
+    "TotalCrime":1060,
+    "NumTypeCrime":241
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.23,-36.83 ]
+    },
+    "properties": {
+    "Postcode":3555,
+    "TotalCrime":1989,
+    "NumTypeCrime":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.26,-36.73 ]
+    },
+    "properties": {
+    "Postcode":3556,
+    "TotalCrime":1265,
+    "NumTypeCrime":109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.51,-36.65 ]
+    },
+    "properties": {
+    "Postcode":3557,
+    "TotalCrime":61,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.71,-36.49 ]
+    },
+    "properties": {
+    "Postcode":3558,
+    "TotalCrime":55,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.6,-36.53 ]
+    },
+    "properties": {
+    "Postcode":3559,
+    "TotalCrime":41,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.67,-36.3 ]
+    },
+    "properties": {
+    "Postcode":3561,
+    "TotalCrime":307,
+    "NumTypeCrime":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.46,-35.98 ]
+    },
+    "properties": {
+    "Postcode":3562,
+    "TotalCrime":27,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.48,-36.27 ]
+    },
+    "properties": {
+    "Postcode":3563,
+    "TotalCrime":17,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.73,-36.13 ]
+    },
+    "properties": {
+    "Postcode":3564,
+    "TotalCrime":2181,
+    "NumTypeCrime":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.53,-36.19 ]
+    },
+    "properties": {
+    "Postcode":3565,
+    "TotalCrime":2,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.37,-35.96 ]
+    },
+    "properties": {
+    "Postcode":3566,
+    "TotalCrime":30,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.24,-35.89 ]
+    },
+    "properties": {
+    "Postcode":3567,
+    "TotalCrime":29,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.34,-35.84 ]
+    },
+    "properties": {
+    "Postcode":3568,
+    "TotalCrime":105,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.11,-36.47 ]
+    },
+    "properties": {
+    "Postcode":3570,
+    "TotalCrime":26,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.23,-36.37 ]
+    },
+    "properties": {
+    "Postcode":3571,
+    "TotalCrime":10,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.38,-36.36 ]
+    },
+    "properties": {
+    "Postcode":3572,
+    "TotalCrime":9,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.09,-36.3 ]
+    },
+    "properties": {
+    "Postcode":3573,
+    "TotalCrime":21,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.99,-36.04 ]
+    },
+    "properties": {
+    "Postcode":3575,
+    "TotalCrime":64,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.96,-36.2 ]
+    },
+    "properties": {
+    "Postcode":3576,
+    "TotalCrime":2,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.87,-35.88 ]
+    },
+    "properties": {
+    "Postcode":3579,
+    "TotalCrime":387,
+    "NumTypeCrime":50
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.11,-35.64 ]
+    },
+    "properties": {
+    "Postcode":3580,
+    "TotalCrime":44,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.8,-35.62 ]
+    },
+    "properties": {
+    "Postcode":3581,
+    "TotalCrime":18,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.64,-35.51 ]
+    },
+    "properties": {
+    "Postcode":3583,
+    "TotalCrime":5,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.63,-35.46 ]
+    },
+    "properties": {
+    "Postcode":3584,
+    "TotalCrime":50,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.59,-35.42 ]
+    },
+    "properties": {
+    "Postcode":3585,
+    "TotalCrime":1537,
+    "NumTypeCrime":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.36,-35.3 ]
+    },
+    "properties": {
+    "Postcode":3586,
+    "TotalCrime":23,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.45,-35.27 ]
+    },
+    "properties": {
+    "Postcode":3588,
+    "TotalCrime":15,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.47,-35.26 ]
+    },
+    "properties": {
+    "Postcode":3589,
+    "TotalCrime":9,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.48,-35.24 ]
+    },
+    "properties": {
+    "Postcode":3590,
+    "TotalCrime":3,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.41,-35.22 ]
+    },
+    "properties": {
+    "Postcode":3591,
+    "TotalCrime":3,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.36,-35.15 ]
+    },
+    "properties": {
+    "Postcode":3594,
+    "TotalCrime":19,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.35,-35.19 ]
+    },
+    "properties": {
+    "Postcode":3595,
+    "TotalCrime":38,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.33,-35.12 ]
+    },
+    "properties": {
+    "Postcode":3596,
+    "TotalCrime":5,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.34,-34.86 ]
+    },
+    "properties": {
+    "Postcode":3597,
+    "TotalCrime":14,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 143.14,-34.74 ]
+    },
+    "properties": {
+    "Postcode":3599,
+    "TotalCrime":11,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2,-36.85 ]
+    },
+    "properties": {
+    "Postcode":3607,
+    "TotalCrime":29,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-36.7 ]
+    },
+    "properties": {
+    "Postcode":3608,
+    "TotalCrime":240,
+    "NumTypeCrime":41
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.28,-36.54 ]
+    },
+    "properties": {
+    "Postcode":3610,
+    "TotalCrime":164,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95,-36.59 ]
+    },
+    "properties": {
+    "Postcode":3612,
+    "TotalCrime":117,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.26,-36.48 ]
+    },
+    "properties": {
+    "Postcode":3614,
+    "TotalCrime":17,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.07,-36.42 ]
+    },
+    "properties": {
+    "Postcode":3616,
+    "TotalCrime":352,
+    "NumTypeCrime":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.15,-36.42 ]
+    },
+    "properties": {
+    "Postcode":3617,
+    "TotalCrime":13,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.17,-36.37 ]
+    },
+    "properties": {
+    "Postcode":3618,
+    "TotalCrime":47,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05,-36.31 ]
+    },
+    "properties": {
+    "Postcode":3620,
+    "TotalCrime":707,
+    "NumTypeCrime":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.85,-36.27 ]
+    },
+    "properties": {
+    "Postcode":3621,
+    "TotalCrime":259,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.77,-36.16 ]
+    },
+    "properties": {
+    "Postcode":3622,
+    "TotalCrime":64,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-36.46 ]
+    },
+    "properties": {
+    "Postcode":3623,
+    "TotalCrime":43,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.07,-36.44 ]
+    },
+    "properties": {
+    "Postcode":3624,
+    "TotalCrime":39,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3,-36.38 ]
+    },
+    "properties": {
+    "Postcode":3629,
+    "TotalCrime":1255,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.4,-36.36 ]
+    },
+    "properties": {
+    "Postcode":3630,
+    "TotalCrime":5852,
+    "NumTypeCrime":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36,-36.54 ]
+    },
+    "properties": {
+    "Postcode":3631,
+    "TotalCrime":586,
+    "NumTypeCrime":89
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.48,-36.3 ]
+    },
+    "properties": {
+    "Postcode":3633,
+    "TotalCrime":35,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.34,-36.22 ]
+    },
+    "properties": {
+    "Postcode":3634,
+    "TotalCrime":97,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3,-36.16 ]
+    },
+    "properties": {
+    "Postcode":3635,
+    "TotalCrime":33,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.5,-36.14 ]
+    },
+    "properties": {
+    "Postcode":3636,
+    "TotalCrime":253,
+    "NumTypeCrime":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.33,-36.05 ]
+    },
+    "properties": {
+    "Postcode":3637,
+    "TotalCrime":19,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.17,-36.15 ]
+    },
+    "properties": {
+    "Postcode":3638,
+    "TotalCrime":236,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97,-36.02 ]
+    },
+    "properties": {
+    "Postcode":3639,
+    "TotalCrime":43,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.46,-35.97 ]
+    },
+    "properties": {
+    "Postcode":3640,
+    "TotalCrime":14,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.33,-35.92 ]
+    },
+    "properties": {
+    "Postcode":3641,
+    "TotalCrime":143,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.69,-35.91 ]
+    },
+    "properties": {
+    "Postcode":3644,
+    "TotalCrime":630,
+    "NumTypeCrime":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.69,-36.33 ]
+    },
+    "properties": {
+    "Postcode":3646,
+    "TotalCrime":26,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7,-36.4 ]
+    },
+    "properties": {
+    "Postcode":3647,
+    "TotalCrime":1,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.69,-36.08 ]
+    },
+    "properties": {
+    "Postcode":3649,
+    "TotalCrime":28,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.05,-37.2 ]
+    },
+    "properties": {
+    "Postcode":3658,
+    "TotalCrime":443,
+    "NumTypeCrime":69
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.02,-37.13 ]
+    },
+    "properties": {
+    "Postcode":3659,
+    "TotalCrime":105,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.5,-37.09 ]
+    },
+    "properties": {
+    "Postcode":3660,
+    "TotalCrime":1592,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3662,
+    "TotalCrime":16,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.16,-36.94 ]
+    },
+    "properties": {
+    "Postcode":3663,
+    "TotalCrime":16,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.23,-36.89 ]
+    },
+    "properties": {
+    "Postcode":3664,
+    "TotalCrime":95,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36,-36.82 ]
+    },
+    "properties": {
+    "Postcode":3665,
+    "TotalCrime":16,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.64,-36.71 ]
+    },
+    "properties": {
+    "Postcode":3666,
+    "TotalCrime":195,
+    "NumTypeCrime":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.77,-36.7 ]
+    },
+    "properties": {
+    "Postcode":3669,
+    "TotalCrime":77,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.86,-36.59 ]
+    },
+    "properties": {
+    "Postcode":3670,
+    "TotalCrime":124,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.99,-36.55 ]
+    },
+    "properties": {
+    "Postcode":3672,
+    "TotalCrime":1385,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.89,-36.43 ]
+    },
+    "properties": {
+    "Postcode":3673,
+    "TotalCrime":71,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.13,-36.27 ]
+    },
+    "properties": {
+    "Postcode":3675,
+    "TotalCrime":60,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.3,-36.35 ]
+    },
+    "properties": {
+    "Postcode":3677,
+    "TotalCrime":2242,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.5,-36.52 ]
+    },
+    "properties": {
+    "Postcode":3678,
+    "TotalCrime":219,
+    "NumTypeCrime":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.41,-36.24 ]
+    },
+    "properties": {
+    "Postcode":3682,
+    "TotalCrime":37,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.61,-36.15 ]
+    },
+    "properties": {
+    "Postcode":3683,
+    "TotalCrime":53,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.22,-36.1 ]
+    },
+    "properties": {
+    "Postcode":3685,
+    "TotalCrime":85,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4,-36.01 ]
+    },
+    "properties": {
+    "Postcode":3687,
+    "TotalCrime":18,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.67,-36.11 ]
+    },
+    "properties": {
+    "Postcode":3688,
+    "TotalCrime":82,
+    "NumTypeCrime":27
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.82,-36.1 ]
+    },
+    "properties": {
+    "Postcode":3690,
+    "TotalCrime":3158,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.91,-36.28 ]
+    },
+    "properties": {
+    "Postcode":3691,
+    "TotalCrime":228,
+    "NumTypeCrime":96
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.14,-36.3 ]
+    },
+    "properties": {
+    "Postcode":3695,
+    "TotalCrime":16,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3698,
+    "TotalCrime":10,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.22,-36.81 ]
+    },
+    "properties": {
+    "Postcode":3699,
+    "TotalCrime":60,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.34,-36.18 ]
+    },
+    "properties": {
+    "Postcode":3700,
+    "TotalCrime":108,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.5,-36.53 ]
+    },
+    "properties": {
+    "Postcode":3701,
+    "TotalCrime":25,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.77,-36.19 ]
+    },
+    "properties": {
+    "Postcode":3705,
+    "TotalCrime":3,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.03,-36.28 ]
+    },
+    "properties": {
+    "Postcode":3707,
+    "TotalCrime":78,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.93,-36.05 ]
+    },
+    "properties": {
+    "Postcode":3708,
+    "TotalCrime":3,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.56,-36.05 ]
+    },
+    "properties": {
+    "Postcode":3709,
+    "TotalCrime":2,
+    "NumTypeCrime":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.71,-37.42 ]
+    },
+    "properties": {
+    "Postcode":3711,
+    "TotalCrime":14,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.86,-37.33 ]
+    },
+    "properties": {
+    "Postcode":3712,
+    "TotalCrime":13,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.91,-37.23 ]
+    },
+    "properties": {
+    "Postcode":3713,
+    "TotalCrime":115,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7,-37.25 ]
+    },
+    "properties": {
+    "Postcode":3714,
+    "TotalCrime":177,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.79,-36.97 ]
+    },
+    "properties": {
+    "Postcode":3715,
+    "TotalCrime":13,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.29,-37.34 ]
+    },
+    "properties": {
+    "Postcode":3717,
+    "TotalCrime":206,
+    "NumTypeCrime":48
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.53,-37.13 ]
+    },
+    "properties": {
+    "Postcode":3718,
+    "TotalCrime":12,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.62,-37.01 ]
+    },
+    "properties": {
+    "Postcode":3719,
+    "TotalCrime":7,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.86,-37.02 ]
+    },
+    "properties": {
+    "Postcode":3720,
+    "TotalCrime":51,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.22,-37.01 ]
+    },
+    "properties": {
+    "Postcode":3722,
+    "TotalCrime":405,
+    "NumTypeCrime":36
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.26,-36.89 ]
+    },
+    "properties": {
+    "Postcode":3723,
+    "TotalCrime":220,
+    "NumTypeCrime":80
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.8,-36.32 ]
+    },
+    "properties": {
+    "Postcode":3725,
+    "TotalCrime":8,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.06,-36.28 ]
+    },
+    "properties": {
+    "Postcode":3726,
+    "TotalCrime":12,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.06,-36.23 ]
+    },
+    "properties": {
+    "Postcode":3727,
+    "TotalCrime":13,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.08,-36.1 ]
+    },
+    "properties": {
+    "Postcode":3728,
+    "TotalCrime":54,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.08,-36.03 ]
+    },
+    "properties": {
+    "Postcode":3730,
+    "TotalCrime":465,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.38,-36.58 ]
+    },
+    "properties": {
+    "Postcode":3732,
+    "TotalCrime":10,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.41,-36.75 ]
+    },
+    "properties": {
+    "Postcode":3733,
+    "TotalCrime":5,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.58,-36.52 ]
+    },
+    "properties": {
+    "Postcode":3735,
+    "TotalCrime":14,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.78,-36.98 ]
+    },
+    "properties": {
+    "Postcode":3737,
+    "TotalCrime":213,
+    "NumTypeCrime":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.79,-36.61 ]
+    },
+    "properties": {
+    "Postcode":3738,
+    "TotalCrime":4,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.85,-36.7 ]
+    },
+    "properties": {
+    "Postcode":3739,
+    "TotalCrime":1,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.85,-36.82 ]
+    },
+    "properties": {
+    "Postcode":3740,
+    "TotalCrime":14,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.96,-36.73 ]
+    },
+    "properties": {
+    "Postcode":3741,
+    "TotalCrime":85,
+    "NumTypeCrime":30
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.98,-36.75 ]
+    },
+    "properties": {
+    "Postcode":3744,
+    "TotalCrime":8,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.58,-36.3 ]
+    },
+    "properties": {
+    "Postcode":3746,
+    "TotalCrime":17,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.69,-36.36 ]
+    },
+    "properties": {
+    "Postcode":3747,
+    "TotalCrime":109,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.86,-36.41 ]
+    },
+    "properties": {
+    "Postcode":3749,
+    "TotalCrime":30,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.81,-38.38 ]
+    },
+    "properties": {
+    "Postcode":3750,
+    "TotalCrime":597,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.89,-37.69 ]
+    },
+    "properties": {
+    "Postcode":3751,
+    "TotalCrime":13,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.1,-37.65 ]
+    },
+    "properties": {
+    "Postcode":3752,
+    "TotalCrime":1544,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145,-37.47 ]
+    },
+    "properties": {
+    "Postcode":3753,
+    "TotalCrime":199,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.15,-37.62 ]
+    },
+    "properties": {
+    "Postcode":3754,
+    "TotalCrime":2669,
+    "NumTypeCrime":53
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.14,-37.57 ]
+    },
+    "properties": {
+    "Postcode":3755,
+    "TotalCrime":21,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.8,-37.4 ]
+    },
+    "properties": {
+    "Postcode":3756,
+    "TotalCrime":1375,
+    "NumTypeCrime":47
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.11,-37.45 ]
+    },
+    "properties": {
+    "Postcode":3757,
+    "TotalCrime":511,
+    "NumTypeCrime":60
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.03,-37.38 ]
+    },
+    "properties": {
+    "Postcode":3758,
+    "TotalCrime":185,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.24,-37.64 ]
+    },
+    "properties": {
+    "Postcode":3759,
+    "TotalCrime":36,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.29,-37.62 ]
+    },
+    "properties": {
+    "Postcode":3760,
+    "TotalCrime":5,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3761,
+    "TotalCrime":49,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3762,
+    "TotalCrime":8,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.28,-37.48 ]
+    },
+    "properties": {
+    "Postcode":3763,
+    "TotalCrime":61,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.89,-37.31 ]
+    },
+    "properties": {
+    "Postcode":3764,
+    "TotalCrime":720,
+    "NumTypeCrime":42
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.34,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3765,
+    "TotalCrime":330,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.37,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3766,
+    "TotalCrime":34,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3767,
+    "TotalCrime":29,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.38,-37.72 ]
+    },
+    "properties": {
+    "Postcode":3770,
+    "TotalCrime":121,
+    "NumTypeCrime":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.32,-37.65 ]
+    },
+    "properties": {
+    "Postcode":3775,
+    "TotalCrime":121,
+    "NumTypeCrime":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.54,-37.69 ]
+    },
+    "properties": {
+    "Postcode":3777,
+    "TotalCrime":529,
+    "NumTypeCrime":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.7,-37.63 ]
+    },
+    "properties": {
+    "Postcode":3778,
+    "TotalCrime":25,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.89,-37.56 ]
+    },
+    "properties": {
+    "Postcode":3779,
+    "TotalCrime":20,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.49,-37.94 ]
+    },
+    "properties": {
+    "Postcode":3781,
+    "TotalCrime":243,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.47,-37.92 ]
+    },
+    "properties": {
+    "Postcode":3782,
+    "TotalCrime":268,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.55,-37.95 ]
+    },
+    "properties": {
+    "Postcode":3783,
+    "TotalCrime":87,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.49,-38.27 ]
+    },
+    "properties": {
+    "Postcode":3785,
+    "TotalCrime":14,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.34,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3786,
+    "TotalCrime":38,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.37,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3787,
+    "TotalCrime":28,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3788,
+    "TotalCrime":136,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3789,
+    "TotalCrime":6,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.41,-37.9 ]
+    },
+    "properties": {
+    "Postcode":3791,
+    "TotalCrime":37,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.39,-37.89 ]
+    },
+    "properties": {
+    "Postcode":3792,
+    "TotalCrime":12,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.41,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3793,
+    "TotalCrime":140,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.41,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3795,
+    "TotalCrime":64,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.38,-37.79 ]
+    },
+    "properties": {
+    "Postcode":3796,
+    "TotalCrime":493,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.71,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3797,
+    "TotalCrime":168,
+    "NumTypeCrime":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.75,-37.76 ]
+    },
+    "properties": {
+    "Postcode":3799,
+    "TotalCrime":414,
+    "NumTypeCrime":64
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.25,-37.98 ]
+    },
+    "properties": {
+    "Postcode":3802,
+    "TotalCrime":1600,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.27,-38 ]
+    },
+    "properties": {
+    "Postcode":3803,
+    "TotalCrime":1271,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.36,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3804,
+    "TotalCrime":468,
+    "NumTypeCrime":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.3,-38.02 ]
+    },
+    "properties": {
+    "Postcode":3805,
+    "TotalCrime":4897,
+    "NumTypeCrime":54
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.34,-38.03 ]
+    },
+    "properties": {
+    "Postcode":3806,
+    "TotalCrime":2959,
+    "NumTypeCrime":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.37,-38.05 ]
+    },
+    "properties": {
+    "Postcode":3807,
+    "TotalCrime":520,
+    "NumTypeCrime":32
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.41,-38 ]
+    },
+    "properties": {
+    "Postcode":3808,
+    "TotalCrime":97,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.41,-38.06 ]
+    },
+    "properties": {
+    "Postcode":3809,
+    "TotalCrime":787,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.49,-38.08 ]
+    },
+    "properties": {
+    "Postcode":3810,
+    "TotalCrime":4409,
+    "NumTypeCrime":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.61,-38.04 ]
+    },
+    "properties": {
+    "Postcode":3812,
+    "TotalCrime":112,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.63,-38.09 ]
+    },
+    "properties": {
+    "Postcode":3813,
+    "TotalCrime":59,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.61,-38.15 ]
+    },
+    "properties": {
+    "Postcode":3814,
+    "TotalCrime":83,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.72,-38.1 ]
+    },
+    "properties": {
+    "Postcode":3815,
+    "TotalCrime":126,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.83,-38.05 ]
+    },
+    "properties": {
+    "Postcode":3816,
+    "TotalCrime":308,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.78,-38.24 ]
+    },
+    "properties": {
+    "Postcode":3818,
+    "TotalCrime":1203,
+    "NumTypeCrime":73
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.96,-38.21 ]
+    },
+    "properties": {
+    "Postcode":3820,
+    "TotalCrime":1681,
+    "NumTypeCrime":28
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.92,-38.1 ]
+    },
+    "properties": {
+    "Postcode":3821,
+    "TotalCrime":130,
+    "NumTypeCrime":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146,-38.24 ]
+    },
+    "properties": {
+    "Postcode":3822,
+    "TotalCrime":52,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.03,-38.26 ]
+    },
+    "properties": {
+    "Postcode":3823,
+    "TotalCrime":127,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.11,-38.3 ]
+    },
+    "properties": {
+    "Postcode":3824,
+    "TotalCrime":424,
+    "NumTypeCrime":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.36,-37.7 ]
+    },
+    "properties": {
+    "Postcode":3825,
+    "TotalCrime":4293,
+    "NumTypeCrime":140
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.99,-37.96 ]
+    },
+    "properties": {
+    "Postcode":3831,
+    "TotalCrime":62,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.85,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3833,
+    "TotalCrime":38,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.12,-38.33 ]
+    },
+    "properties": {
+    "Postcode":3835,
+    "TotalCrime":34,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.32,-38.28 ]
+    },
+    "properties": {
+    "Postcode":3840,
+    "TotalCrime":4691,
+    "NumTypeCrime":78
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.42,-38.32 ]
+    },
+    "properties": {
+    "Postcode":3842,
+    "TotalCrime":580,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.64,-38.41 ]
+    },
+    "properties": {
+    "Postcode":3844,
+    "TotalCrime":4883,
+    "NumTypeCrime":88
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.75,-38.26 ]
+    },
+    "properties": {
+    "Postcode":3847,
+    "TotalCrime":270,
+    "NumTypeCrime":33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.08,-38.42 ]
+    },
+    "properties": {
+    "Postcode":3850,
+    "TotalCrime":2488,
+    "NumTypeCrime":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.08,-38.04 ]
+    },
+    "properties": {
+    "Postcode":3851,
+    "TotalCrime":609,
+    "NumTypeCrime":125
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.13,-38.11 ]
+    },
+    "properties": {
+    "Postcode":3852,
+    "TotalCrime":1,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.57,-38.12 ]
+    },
+    "properties": {
+    "Postcode":3854,
+    "TotalCrime":45,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.67,-38.07 ]
+    },
+    "properties": {
+    "Postcode":3856,
+    "TotalCrime":35,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.69,-38 ]
+    },
+    "properties": {
+    "Postcode":3857,
+    "TotalCrime":17,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.69,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3858,
+    "TotalCrime":300,
+    "NumTypeCrime":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.85,-37.89 ]
+    },
+    "properties": {
+    "Postcode":3859,
+    "TotalCrime":46,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.99,-37.88 ]
+    },
+    "properties": {
+    "Postcode":3860,
+    "TotalCrime":564,
+    "NumTypeCrime":44
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.19,-37.57 ]
+    },
+    "properties": {
+    "Postcode":3862,
+    "TotalCrime":139,
+    "NumTypeCrime":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.34,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3864,
+    "TotalCrime":19,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.46,-37.8 ]
+    },
+    "properties": {
+    "Postcode":3865,
+    "TotalCrime":12,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.42,-38.4 ]
+    },
+    "properties": {
+    "Postcode":3869,
+    "TotalCrime":64,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.28,-38.38 ]
+    },
+    "properties": {
+    "Postcode":3870,
+    "TotalCrime":63,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.05,-38.29 ]
+    },
+    "properties": {
+    "Postcode":3871,
+    "TotalCrime":105,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.72,-38.29 ]
+    },
+    "properties": {
+    "Postcode":3873,
+    "TotalCrime":20,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.79,-38.38 ]
+    },
+    "properties": {
+    "Postcode":3874,
+    "TotalCrime":60,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.63,-37.83 ]
+    },
+    "properties": {
+    "Postcode":3875,
+    "TotalCrime":2214,
+    "NumTypeCrime":151
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.67,-37.89 ]
+    },
+    "properties": {
+    "Postcode":3878,
+    "TotalCrime":37,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.69,-37.92 ]
+    },
+    "properties": {
+    "Postcode":3880,
+    "TotalCrime":194,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.73,-37.82 ]
+    },
+    "properties": {
+    "Postcode":3882,
+    "TotalCrime":39,
+    "NumTypeCrime":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.83,-37.71 ]
+    },
+    "properties": {
+    "Postcode":3885,
+    "TotalCrime":44,
+    "NumTypeCrime":31
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.43,-37.74 ]
+    },
+    "properties": {
+    "Postcode":3886,
+    "TotalCrime":8,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.12,-37.84 ]
+    },
+    "properties": {
+    "Postcode":3887,
+    "TotalCrime":59,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.88,-37.15 ]
+    },
+    "properties": {
+    "Postcode":3888,
+    "TotalCrime":346,
+    "NumTypeCrime":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.91,-37.93 ]
+    },
+    "properties": {
+    "Postcode":3889,
+    "TotalCrime":39,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.14,-37.27 ]
+    },
+    "properties": {
+    "Postcode":3890,
+    "TotalCrime":46,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.59,-37.48 ]
+    },
+    "properties": {
+    "Postcode":3891,
+    "TotalCrime":7,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 149.73,-37.55 ]
+    },
+    "properties": {
+    "Postcode":3892,
+    "TotalCrime":64,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.75,-37.3 ]
+    },
+    "properties": {
+    "Postcode":3895,
+    "TotalCrime":6,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.81,-37.11 ]
+    },
+    "properties": {
+    "Postcode":3896,
+    "TotalCrime":10,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.47,-37.02 ]
+    },
+    "properties": {
+    "Postcode":3898,
+    "TotalCrime":43,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.7,-36.95 ]
+    },
+    "properties": {
+    "Postcode":3900,
+    "TotalCrime":26,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.83,-37.79 ]
+    },
+    "properties": {
+    "Postcode":3902,
+    "TotalCrime":14,
+    "NumTypeCrime":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.84,-37.81 ]
+    },
+    "properties": {
+    "Postcode":3903,
+    "TotalCrime":21,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.85,-37.87 ]
+    },
+    "properties": {
+    "Postcode":3904,
+    "TotalCrime":35,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 147.92,-37.86 ]
+    },
+    "properties": {
+    "Postcode":3909,
+    "TotalCrime":887,
+    "NumTypeCrime":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-38.15 ]
+    },
+    "properties": {
+    "Postcode":3910,
+    "TotalCrime":1188,
+    "NumTypeCrime":26
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.16,-38.2 ]
+    },
+    "properties": {
+    "Postcode":3911,
+    "TotalCrime":358,
+    "NumTypeCrime":34
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.23,-38.2 ]
+    },
+    "properties": {
+    "Postcode":3912,
+    "TotalCrime":1009,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-38.26 ]
+    },
+    "properties": {
+    "Postcode":3913,
+    "TotalCrime":227,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.19,-38.31 ]
+    },
+    "properties": {
+    "Postcode":3915,
+    "TotalCrime":1650,
+    "NumTypeCrime":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.09,-38.39 ]
+    },
+    "properties": {
+    "Postcode":3916,
+    "TotalCrime":45,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.18,-38.34 ]
+    },
+    "properties": {
+    "Postcode":3918,
+    "TotalCrime":168,
+    "NumTypeCrime":21
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.2,-38.37 ]
+    },
+    "properties": {
+    "Postcode":3919,
+    "TotalCrime":274,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3920,
+    "TotalCrime":7,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.34,-38.34 ]
+    },
+    "properties": {
+    "Postcode":3921,
+    "TotalCrime":2,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.24,-38.45 ]
+    },
+    "properties": {
+    "Postcode":3922,
+    "TotalCrime":746,
+    "NumTypeCrime":97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.31,-38.46 ]
+    },
+    "properties": {
+    "Postcode":3923,
+    "TotalCrime":16,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.34,-38.54 ]
+    },
+    "properties": {
+    "Postcode":3925,
+    "TotalCrime":220,
+    "NumTypeCrime":45
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.13,-38.37 ]
+    },
+    "properties": {
+    "Postcode":3926,
+    "TotalCrime":168,
+    "NumTypeCrime":35
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.15,-38.38 ]
+    },
+    "properties": {
+    "Postcode":3927,
+    "TotalCrime":77,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.97,-38.4 ]
+    },
+    "properties": {
+    "Postcode":3928,
+    "TotalCrime":15,
+    "NumTypeCrime":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.02,-38.47 ]
+    },
+    "properties": {
+    "Postcode":3929,
+    "TotalCrime":64,
+    "NumTypeCrime":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.08,-38.19 ]
+    },
+    "properties": {
+    "Postcode":3930,
+    "TotalCrime":635,
+    "NumTypeCrime":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.06,-38.24 ]
+    },
+    "properties": {
+    "Postcode":3931,
+    "TotalCrime":2387,
+    "NumTypeCrime":29
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.09,-38.24 ]
+    },
+    "properties": {
+    "Postcode":3933,
+    "TotalCrime":224,
+    "NumTypeCrime":19
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.99,-38.3 ]
+    },
+    "properties": {
+    "Postcode":3934,
+    "TotalCrime":465,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.95,-38.35 ]
+    },
+    "properties": {
+    "Postcode":3936,
+    "TotalCrime":902,
+    "NumTypeCrime":55
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.01,-38.37 ]
+    },
+    "properties": {
+    "Postcode":3937,
+    "TotalCrime":78,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.22,-37.99 ]
+    },
+    "properties": {
+    "Postcode":3938,
+    "TotalCrime":153,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.9,-38.4 ]
+    },
+    "properties": {
+    "Postcode":3939,
+    "TotalCrime":1661,
+    "NumTypeCrime":49
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "Postcode":3940,
+    "TotalCrime":447,
+    "NumTypeCrime":22
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.82,-38.37 ]
+    },
+    "properties": {
+    "Postcode":3941,
+    "TotalCrime":969,
+    "NumTypeCrime":57
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.77,-38.36 ]
+    },
+    "properties": {
+    "Postcode":3942,
+    "TotalCrime":98,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.74,-38.34 ]
+    },
+    "properties": {
+    "Postcode":3943,
+    "TotalCrime":170,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 144.71,-38.34 ]
+    },
+    "properties": {
+    "Postcode":3944,
+    "TotalCrime":69,
+    "NumTypeCrime":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.16,-37.97 ]
+    },
+    "properties": {
+    "Postcode":3945,
+    "TotalCrime":24,
+    "NumTypeCrime":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.72,-38.43 ]
+    },
+    "properties": {
+    "Postcode":3946,
+    "TotalCrime":1,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.88,-38.45 ]
+    },
+    "properties": {
+    "Postcode":3950,
+    "TotalCrime":348,
+    "NumTypeCrime":24
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.89,-38.39 ]
+    },
+    "properties": {
+    "Postcode":3951,
+    "TotalCrime":20,
+    "NumTypeCrime":14
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.07,-38.41 ]
+    },
+    "properties": {
+    "Postcode":3953,
+    "TotalCrime":572,
+    "NumTypeCrime":51
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.95,-38.55 ]
+    },
+    "properties": {
+    "Postcode":3954,
+    "TotalCrime":9,
+    "NumTypeCrime":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.1,-38.53 ]
+    },
+    "properties": {
+    "Postcode":3956,
+    "TotalCrime":132,
+    "NumTypeCrime":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.27,-37.94 ]
+    },
+    "properties": {
+    "Postcode":3957,
+    "TotalCrime":5,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.07,-38.64 ]
+    },
+    "properties": {
+    "Postcode":3958,
+    "TotalCrime":9,
+    "NumTypeCrime":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.08,-38.69 ]
+    },
+    "properties": {
+    "Postcode":3959,
+    "TotalCrime":41,
+    "NumTypeCrime":18
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.27,-38.67 ]
+    },
+    "properties": {
+    "Postcode":3960,
+    "TotalCrime":96,
+    "NumTypeCrime":38
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4,-38.67 ]
+    },
+    "properties": {
+    "Postcode":3962,
+    "TotalCrime":66,
+    "NumTypeCrime":20
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.27,-38.68 ]
+    },
+    "properties": {
+    "Postcode":3964,
+    "TotalCrime":2,
+    "NumTypeCrime":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.45,-38.69 ]
+    },
+    "properties": {
+    "Postcode":3965,
+    "TotalCrime":7,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.45,-38.58 ]
+    },
+    "properties": {
+    "Postcode":3966,
+    "TotalCrime":25,
+    "NumTypeCrime":13
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.67,-38.61 ]
+    },
+    "properties": {
+    "Postcode":3971,
+    "TotalCrime":320,
+    "NumTypeCrime":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.26,-38.05 ]
+    },
+    "properties": {
+    "Postcode":3975,
+    "TotalCrime":1043,
+    "NumTypeCrime":43
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.27,-38.03 ]
+    },
+    "properties": {
+    "Postcode":3976,
+    "TotalCrime":1808,
+    "NumTypeCrime":25
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.32,-38.21 ]
+    },
+    "properties": {
+    "Postcode":3977,
+    "TotalCrime":7954,
+    "NumTypeCrime":199
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.42,-38.15 ]
+    },
+    "properties": {
+    "Postcode":3978,
+    "TotalCrime":839,
+    "NumTypeCrime":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.56,-38.43 ]
+    },
+    "properties": {
+    "Postcode":3979,
+    "TotalCrime":10,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.34,-38.21 ]
+    },
+    "properties": {
+    "Postcode":3980,
+    "TotalCrime":177,
+    "NumTypeCrime":39
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.57,-38.18 ]
+    },
+    "properties": {
+    "Postcode":3981,
+    "TotalCrime":272,
+    "NumTypeCrime":52
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.54,-38.32 ]
+    },
+    "properties": {
+    "Postcode":3984,
+    "TotalCrime":408,
+    "NumTypeCrime":97
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.67,-38.33 ]
+    },
+    "properties": {
+    "Postcode":3987,
+    "TotalCrime":61,
+    "NumTypeCrime":17
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.89,-38.29 ]
+    },
+    "properties": {
+    "Postcode":3988,
+    "TotalCrime":24,
+    "NumTypeCrime":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.53,-38.45 ]
+    },
+    "properties": {
+    "Postcode":3990,
+    "TotalCrime":4,
+    "NumTypeCrime":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.47,-38.48 ]
+    },
+    "properties": {
+    "Postcode":3991,
+    "TotalCrime":54,
+    "NumTypeCrime":15
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.62,-38.49 ]
+    },
+    "properties": {
+    "Postcode":3992,
+    "TotalCrime":41,
+    "NumTypeCrime":16
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 145.45,-38.53 ]
+    },
+    "properties": {
+    "Postcode":3995,
+    "TotalCrime":1374,
+    "NumTypeCrime":92
+    }
+  }
+]
+});
