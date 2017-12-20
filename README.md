@@ -1,19 +1,13 @@
 # Crime Heatmap
 
-This is a crime heatmap which displays the crime in the selected area. The repository contains the Victoria,Australia Crime data which can be 
-
-## Download and Installation
-
-To begin using this template, choose one of the following options to get started:
-* Install via npm: `npm i startbootstrap-freelancer`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-freelancer)
+This is a crime heatmap which displays the crime in the selected area. The repository contains sample data which can be used to test the project.  
 
 ## Usage
 
 ### Basic Usage
 
 If you want to run the website, get a api code from google maps. Then open the index.html file and replace "YOURAPIKEYHERE" with your api key. 
+Also note that currently the project only contains data on Victoria, Australia. Therefore to see the heatmap, type 'victoria' into the search bar. 
 
 ### Advanced Usage
 
