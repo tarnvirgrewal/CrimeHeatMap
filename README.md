@@ -1,4 +1,4 @@
-# [Crime Heatmap]
+# Crime Heatmap
 
 This is a crime heatmap which displays the crime in the selected area. The repository contains the Victoria,Australia Crime data which can be 
 
