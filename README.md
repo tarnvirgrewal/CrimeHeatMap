@@ -1,12 +1,6 @@
-# [Start Bootstrap - Freelancer](https://startbootstrap.com/template-overviews/freelancer/)
+# [Crime Heatmap]
 
 This is a crime heatmap which displays the crime in the selected area. The repository contains the Victoria,Australia Crime data which can be 
-
-## Preview
-
-[![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
-
-
 
 ## Download and Installation
 
