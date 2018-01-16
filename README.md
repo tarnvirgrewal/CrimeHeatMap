@@ -13,6 +13,8 @@ Also note that currently the project only contains data on Victoria, Australia. 
 
 If you want to display data for other locations, simply change the location path in the script.js file. Also update the center in the script.js file to the new location. 
 
-
-#Author
+## Author
 Made by Tarnvir Grewal
+
+## Sample
+![Alt text](relative/image/sample3.jpg?raw=true "Title")
