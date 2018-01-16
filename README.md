@@ -17,4 +17,4 @@ If you want to display data for other locations, simply change the location path
 Made by Tarnvir Grewal
 
 ## Sample
-![Sample Image](https://raw.githubusercontent.com//tarnvirgrewal/CrimeHeatMap/blob/master/image/sample3.png)
+![Sample Image](https://github.com/tarnvirgrewal/CrimeHeatMap/blob/master/image/sample3.png)
